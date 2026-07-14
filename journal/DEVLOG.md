@@ -18,3 +18,19 @@ Set up the React project.
 
 ## Next Goal
 Build the Home Screen.
+
+
+# Session 3
+## Goal
+Improve the Home Screen by addiing descriptions to every learning task.
+
+## What I learned
+- How to extend a React component with new props
+- How reusable components make future changes easier.
+- How Github keeps history of my progress
+
+## Completed
+- Added descriptions to all feature cards
+
+## Newxt Goal
+Add navigation so each feature opens its own lesson page.
